@@ -1,0 +1,24 @@
+{
+  "name": "AdvancedTagManager",
+  "description": "Tools and helpers for Matomo Tag Manager",
+  "version": "0.1.0-beta1",
+  "theme": false,
+  "require": {
+    "matomo": ">=4.7.1-stable,<5.0.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Whitespace",
+      "email": "code@whitespace.se",
+      "homepage": "https://whitespace.se"
+    }
+  ],
+  "support": {
+    "email": "code@whitespace.se",
+    "issues": "https://github.com/whitespace-se/matomom-advanced-tag-manager-plugin/issues",
+    "source": "https://github.com/whitespace-se/matomom-advanced-tag-manager-plugin"
+  },
+  "homepage": "https://whitespace.se/matomo/",
+  "license": "GPL v3+",
+  "keywords": ["Tag manager", "Console", "Admin"]
+}
