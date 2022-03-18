@@ -1,4 +1,4 @@
-# Matomo AdvancedTagManager Plugin
+# Advanced Tag Manager
 
 ## Description
 
