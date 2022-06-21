@@ -15,8 +15,8 @@
   ],
   "support": {
     "email": "code@whitespace.se",
-    "issues": "https://github.com/whitespace-se/matomom-advanced-tag-manager-plugin/issues",
-    "source": "https://github.com/whitespace-se/matomom-advanced-tag-manager-plugin"
+    "issues": "https://github.com/whitespace-se/matomo-advanced-tag-manager-plugin/issues",
+    "source": "https://github.com/whitespace-se/matomo-advanced-tag-manager-plugin"
   },
   "homepage": "https://whitespace.se/matomo/",
   "license": "GPL v3+",
